@@ -21,6 +21,7 @@ let meusPontos = 0;
 let pontosOponentes = 0;
 
 // dificuldade
+u
 let dificuldade = "Normal";
 let trilha,ponto,raquetada;
     
