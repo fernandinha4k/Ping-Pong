@@ -114,6 +114,3 @@ function npc(){
         yRaqueteOponente - 10 /2;
   yRaqueteOponente += velocidadeYRaqueteOponente - nivel;
 }
-  
-
-  
