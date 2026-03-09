@@ -96,7 +96,7 @@ function movimentoBolinha(){
     velocidadeYBolinha *= -1}
 }
 
-function raquetes(xRaquete, yRaquete){
+function raquetes(xRaquete, yRaquete){A
   rect(xRaquete,yRaquete,10,90);
 
 }
